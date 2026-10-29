@@ -1,0 +1,24 @@
+CarteirinhaDigital323664 - versão ajustada
+
+Projeto preparado usando como referência a estrutura e funcionalidades do CarteirinhaDigital2DEVEST_A,
+mantendo o namespace/applicationId com.senai.carteirinhadigital e os recursos/imagens que já existiam
+no CarteirinhaDigital323664. Recursos necessários que existiam apenas no projeto de referência foram
+adicionados sem sobrescrever arquivos de imagem já existentes.
+
+Versões configuradas:
+- Android Gradle Plugin (AGP): 9.0.0
+- Gradle Wrapper: 9.1.0
+- JDK recomendado: 17 ou superior, conforme a documentação do Android Gradle Plugin
+- compileSdk/targetSdk: 36
+
+Como abrir:
+1. Extraia o ZIP para uma pasta.
+2. Abra a pasta CarteirinhaDigital323664-main no Android Studio.
+3. Aguarde a sincronização do Gradle.
+4. Se solicitado, configure o Gradle JDK para JDK 17.
+5. Execute Build > Make Project e depois Run.
+
+Observação importante:
+O projeto foi reorganizado e revisado estaticamente neste ambiente, mas não foi possível executar
+uma compilação Android real aqui porque não há Gradle/Android SDK configurado no ambiente. Se o
+Android Studio apresentar erro de sincronização, envie o texto completo do erro para correção.
